@@ -1,8 +1,5 @@
 ### Bem vindo 👋
 
-<!--
-**marlonrochaa/marlonrochaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Sou um desenvolvedor PHP fullstack, com experiência em Laravel e VueJs! Eu amo encarar novos desafios!
 
 Participei da criação de diversos projetos, como por exemplo: 
