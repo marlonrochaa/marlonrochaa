@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor PHP fullstack, com experiência em Laravel e VueJs! Eu amo encarar novos desafios!
 
-Participei na criação de diversos projetos, como por exemplo: 
+Participei na criação de diversos projetos, tais como: 
 - www.evipes.com/
 - www.orcaaqui.com.br/
 
